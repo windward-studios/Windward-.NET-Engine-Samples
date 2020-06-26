@@ -1,5 +1,5 @@
 # Windward Samples
-This repository contains code samples demonstrating how Windward Engines can be embedded in your application in as few as 14 lines! Checkout the sample code today!
+This repository contains code samples demonstrating how the Windward .NET Engine can be embedded in your application in as few as 14 lines! Checkout the sample code today!
 
 
 ## What is Windward?
